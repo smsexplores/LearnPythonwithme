@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "C:\\Users\\farum\\OneDrive\\Desktop\\Vivid Tech Lessons\\LearnPythonwithme",
+        "app_url": "https://salmatheanalyst.shinyapps.io/learnpythonwithme/",
+        "app_id": 12425191,
+        "app_guid": null,
+        "title": "LearnPythonwithme",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
